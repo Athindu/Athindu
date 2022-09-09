@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋, I'm Athindu</h1>
 <h4 align="left">An enthusiastic software developer with Bachelor's in Software Engineering First Class degree from University of Westminster.</h3>
 <br/>
-<img align="right" alt="coder-gif" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" >
+<img align="right" alt="coder-gif" width="400" src="https://github.com/Athindu/Athindu/blob/master/coder1.gif" >
 
 - 🔭 I work on **Full Stack Development, Mobile App Development, Deep Learning, UI/UX design, Java programming, Technical Writing and Content Writing**  
 
