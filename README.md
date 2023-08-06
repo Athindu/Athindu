@@ -1,5 +1,5 @@
 
-<img align="center" alt="snake-gif" width="1400" src="https://github.com/Athindu/Athindu/blob/output/github-contribution-grid-snake.svg" >
+//<img align="center" alt="snake-gif" width="1400" src="https://github.com/Athindu/Athindu/blob/output/github-contribution-grid-snake.svg" >
 <h1 align="center">Hi there 👋, I'm Athindu</h1>
 <h4 align="left">An enthusiastic software developer with Bachelor's in Software Engineering First Class degree from University of Westminster who has 4+ years of experience in the Software Engineering domain.</h3>
 <br/>
