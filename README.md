@@ -5,11 +5,11 @@
 <br/>
 <img align="right" alt="coder-gif" width="400" src="https://github.com/Athindu/Athindu/blob/master/coder1.gif" >
 
-- 🔭 I work on **Full Stack Development, Mobile App Development, Deep Learning, UI/UX design, Java programming, Technical Writing and Content Writing**  
+- 🔭 I work on **Cloud Computing, DevOps, Full Stack Development, Mobile App Development, Machine Learning, Java programming, Technical Writing and Content Writing**  
 
-- 🌱 I’m currently learning **Cloud Computing with AWS and DevOps tools**
+- 🌱 I’m currently learning **Azure & Terraform**
 
-- 💬 Ask me about **Java, Python, Flutter, etc.**
+- 💬 Ask me about **Java, Python, Flutter, Kubernetes, etc.**
 
 - 😂 Here is a random joke that'll make you laugh!
 
