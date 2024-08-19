@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi there 👋, I'm Athindu</h1>
-<h4 align="left">An enthusiastic software developer with Bachelor's in Software Engineering First Class degree from University of Westminster who has 4+ years of experience in the Software Engineering domain.</h3>
+<h4 align="left">An enthusiastic software developer with a First Class Bachelor's degree in Software Engineering from the University of Westminster and 4+ years of experience in the software engineering domain.</h3>
 <br/>
 <img align="right" alt="coder-gif" width="400" src="https://github.com/Athindu/Athindu/blob/master/coder1.gif" >
 
