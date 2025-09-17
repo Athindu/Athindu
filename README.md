@@ -5,7 +5,7 @@
 <br/>
 <img align="right" alt="coder-gif" width="400" src="https://github.com/Athindu/Athindu/blob/master/coder1.gif" >
 
-- 🔭 I work on **Cloud Computing, DevOps, Full Stack Development, Mobile App Development, Machine Learning, Java programming, Technical Writing and Content Writing**  
+- 🔭 I work on **Cloud Computing, DevOps, Machine Learning, Java programming, and Technical Writing**  
 
 - 🌱 I’m currently learning **Azure & Terraform**
 
